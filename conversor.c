@@ -196,8 +196,7 @@ int main() {
     decimal4 = binary_to_decimal(binary3);
     // Mostrar resultado
     printf("\nEl número binario %s en decimal es: %d", binary3, decimal4);
-
-
+    
     return 0;
 }
 
