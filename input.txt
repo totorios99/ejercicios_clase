@@ -1,0 +1,4 @@
+print("Hello World")
+for int char float ( ) " " % * , . ; - _ 12 quien soy /
+#include <iostream>
+12 while do endl println cout
